@@ -1,3 +1,5 @@
+package h01;
+
 public class MijnEersteJavaKlasse {
 
     public static void main(String[] args) {
