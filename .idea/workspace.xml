@@ -53,7 +53,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -122,6 +122,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="succesvol veranderd" />
@@ -136,6 +137,10 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="285" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.864@0.0.1536.864" timestamp="1603105696122" />
+    <state x="610" y="167" key="FileChooserDialogImpl" timestamp="1603210615284">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="610" y="167" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1603210615284" />
     <state width="1342" height="208" key="GridCell.Tab.0.bottom" timestamp="1603120813029">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
