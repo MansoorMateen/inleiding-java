@@ -22,16 +22,16 @@ Waarom worden opdrachten voor het scherm in paint() gezet en niet in een andere 
 import java.awt.*;
 import java.applet.*;
 
-    public class h04 extends Applet {
+    public class h041 extends Applet {
 
         public void init() {
         }
 
         public void paint(Graphics g) {
             setBackground(Color.blue);
-            g.setColor(Color.yellow);
-            g.drawRoundRect(20, 20, 100, 50, 10, 10);
-            g.fillRect(20, 80, 100, 50);
+            g.drawLine(50, 60, 270, 120);
+            g.drawLine(50, 210, 270, 120);
+            g.drawLine(50, 60, 50, 210);
         }
     }
 
