@@ -4,9 +4,6 @@ import java.applet.Applet;
 import java.awt.*;
 
 
-//Teken de zijde waarop de vier van een dobbelsteen staat
-
-
 import java.awt.*;
 import java.applet.*;
 
