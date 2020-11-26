@@ -6,7 +6,7 @@ import java.awt.event.*;
 
 import static java.lang.Integer.parseInt;
 
-public class h104 extends Applet {
+public class  h104 extends Applet {
     TextField tekstvak;
     TextField TV;
     Label label;
