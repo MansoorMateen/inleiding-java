@@ -3,20 +3,7 @@ package h02;
 import java.awt.*;
 
 
-/*
 
-@(#)Show.java 1.0 03/02/26
-
-*
-
-Voorbeeld 2.1
-
-*
-
-*/
-
-//importeer de benodigde klassen uit de Java bibliotheek
-import java.awt.*;
 import java.applet.*;
 
     //een klasse met de naam Show van het type Applet
@@ -34,7 +21,7 @@ import java.applet.*;
         }
 
 
-        }
+    }
 
 
 

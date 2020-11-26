@@ -24,7 +24,13 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fb2508ed-a354-4b1a-b081-b461dffe4669" name="Default Changelist" comment="succesvol veranderd" />
+    <list default="true" id="fb2508ed-a354-4b1a-b081-b461dffe4669" name="Default Changelist" comment="succesvol veranderd">
+      <change afterPath="$PROJECT_DIR$/src/h11/h111.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/h11/h112.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/h02/Class2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/h02/Class2.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,18 +53,41 @@
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1j5sxMuKf3uc06DsnU3izRTii9E" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="SDKs" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Application.HalloRocDev">
+  <component name="RunManager" selected="Applet.h112">
+    <configuration name="Class2" type="Applet" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="h02.Class2" />
+      <module name="inleiding-java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="h111" type="Applet" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="h11.h111" />
+      <module name="inleiding-java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="h112" type="Applet" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="h11.h112" />
+      <module name="inleiding-java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="HalloRocDev" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="h01.HalloRocDev" />
       <module name="inleiding-java" />
@@ -81,6 +110,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Applet.h112" />
+        <item itemvalue="Applet.h111" />
+        <item itemvalue="Applet.Class2" />
         <item itemvalue="Application.HalloRocDev" />
         <item itemvalue="Application.MijnEersteJavaKlasse" />
       </list>
@@ -109,7 +141,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603120879318</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="succesvol veranderd">
+      <created>1606393491633</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1606393491633</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -141,25 +180,33 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="610" y="167" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1603210615284" />
-    <state width="1342" height="208" key="GridCell.Tab.0.bottom" timestamp="1603120813029">
+    <state width="1537" height="223" key="GridCell.Tab.0.bottom" timestamp="1606404166644">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1342" height="208" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1603120813029" />
-    <state width="1342" height="208" key="GridCell.Tab.0.center" timestamp="1603120813029">
+    <state width="1537" height="223" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1606404166644" />
+    <state width="1537" height="223" key="GridCell.Tab.0.center" timestamp="1606404166644">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1342" height="208" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1603120813029" />
-    <state width="1342" height="208" key="GridCell.Tab.0.left" timestamp="1603120813029">
+    <state width="1537" height="223" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1606404166644" />
+    <state width="1537" height="223" key="GridCell.Tab.0.left" timestamp="1606404166644">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1342" height="208" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1603120813029" />
-    <state width="1342" height="208" key="GridCell.Tab.0.right" timestamp="1603120813029">
+    <state width="1537" height="223" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1606404166644" />
+    <state width="1537" height="223" key="GridCell.Tab.0.right" timestamp="1606404166644">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1342" height="208" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1603120813029" />
-    <state x="422" y="145" key="Vcs.Push.Dialog.v2" timestamp="1603120883775">
+    <state width="1537" height="223" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1606404166644" />
+    <state x="249" y="6" key="SettingsEditor" timestamp="1606397779448">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="422" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1603120883775" />
+    <state x="249" y="6" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1606397779448" />
+    <state x="422" y="145" key="Vcs.Push.Dialog.v2" timestamp="1606393497239">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="422" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1606393497239" />
+    <state x="586" y="346" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1606393475006">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="586" y="346" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.864@0.0.1536.864" timestamp="1606393475006" />
   </component>
 </project>
