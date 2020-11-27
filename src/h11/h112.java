@@ -11,7 +11,7 @@ public class h112 extends Applet {
 
         while(teller>=10){
             g.drawString(teller+"",0,y);
-            y+=10;
+            y+=15;
             teller--;
 
         }
