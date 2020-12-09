@@ -7,9 +7,7 @@ public class h121 extends Applet {
 
     Double[] salaris = { 100.0, 200.00, 111.11, 222.22,2.2,3.5,6.7,100.4,65.76,777.77};
 
-    public void init() {
-        Arrays.sort(salaris);
-    }
+
 
     public void paint(Graphics g) {
 
