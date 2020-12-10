@@ -51,7 +51,7 @@ public class h125 extends Applet {
 
         if (Gevonden == true){
 
-            g.drawString("waarden gevonden " + getal[teller] + " de index is " + (teller + 1) ,40,50 );
+            g.drawString("waarden gevonden " + getal[teller] + " de index is " + (teller) ,40,50 );
         }
         else {
             g.drawString("waarde niet gevonden",40,40);
