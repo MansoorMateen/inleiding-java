@@ -37,8 +37,7 @@ public class h12P extends Applet {
 
                 namen[teller] = naam.getText();
                 nummers[teller] = nummer.getText();
-                System.out.println(namen[teller] + "");
-                System.out.println(nummers[teller] + "");
+
                 teller++;
 
             }
