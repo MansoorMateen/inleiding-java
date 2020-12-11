@@ -41,7 +41,8 @@ public class h12P extends Applet {
                 teller++;
 
             }
-            else {repaint();}
+             if (teller >= namen.length){
+                repaint();}
 
 
         }

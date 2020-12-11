@@ -24,7 +24,15 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fb2508ed-a354-4b1a-b081-b461dffe4669" name="Default Changelist" comment="12 af" />
+    <list default="true" id="fb2508ed-a354-4b1a-b081-b461dffe4669" name="Default Changelist" comment="12 af">
+      <change afterPath="$PROJECT_DIR$/src/h13/h131.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/h13/h132.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/h13/h133.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/h13/h13P1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/h13/h13p2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/h12/h12P.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/h12/h12P.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,14 +68,7 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
-  <component name="RunManager" selected="Applet.h12P">
-    <configuration name="h118" type="Applet" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="h11.h118" />
-      <module name="inleiding-java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Applet.h13p2">
     <configuration name="h119" type="Applet" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="h11.h119" />
       <module name="inleiding-java" />
@@ -75,22 +76,29 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="h125" type="Applet" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="h12.h125" />
+    <configuration name="h132" type="Applet" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="h13.h132" />
       <module name="inleiding-java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="h126" type="Applet" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="h12.h126" />
+    <configuration name="h133" type="Applet" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="h13.h133" />
       <module name="inleiding-java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="h12P" type="Applet" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="h12.h12P" />
+    <configuration name="h13P1" type="Applet" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="h13.h13P1" />
+      <module name="inleiding-java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="h13p2" type="Applet" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="h13.h13p2" />
       <module name="inleiding-java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -98,9 +106,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Applet.h12P" />
-        <item itemvalue="Applet.h125" />
-        <item itemvalue="Applet.h126" />
+        <item itemvalue="Applet.h13p2" />
+        <item itemvalue="Applet.h13P1" />
+        <item itemvalue="Applet.h133" />
+        <item itemvalue="Applet.h132" />
+        <item itemvalue="Applet.h119" />
       </list>
     </recent_temporary>
   </component>
@@ -177,42 +187,46 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="285" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.864@0.0.1536.864" timestamp="1603105696122" />
+    <state x="522" y="160" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1607704843477">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="522" y="160" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1536.864@0.0.1536.864" timestamp="1607704843476" />
     <state x="610" y="167" key="FileChooserDialogImpl" timestamp="1603210615284">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="610" y="167" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1603210615284" />
-    <state width="1342" height="89" key="GridCell.Tab.0.bottom" timestamp="1607604775250">
+    <state width="1342" height="89" key="GridCell.Tab.0.bottom" timestamp="1607705938380">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1342" height="89" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1607604775250" />
-    <state width="1342" height="89" key="GridCell.Tab.0.center" timestamp="1607604775250">
+    <state width="1342" height="89" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1607705938380" />
+    <state width="1342" height="89" key="GridCell.Tab.0.center" timestamp="1607705938380">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1342" height="89" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1607604775250" />
-    <state width="1342" height="89" key="GridCell.Tab.0.left" timestamp="1607604775250">
+    <state width="1342" height="89" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1607705938380" />
+    <state width="1342" height="89" key="GridCell.Tab.0.left" timestamp="1607705938380">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1342" height="89" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1607604775250" />
-    <state width="1342" height="89" key="GridCell.Tab.0.right" timestamp="1607604775250">
+    <state width="1342" height="89" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1607705938380" />
+    <state width="1342" height="89" key="GridCell.Tab.0.right" timestamp="1607705938380">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1342" height="89" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1607604775250" />
-    <state width="1342" height="258" key="GridCell.Tab.1.bottom" timestamp="1607525208347">
+    <state width="1342" height="89" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1607705938380" />
+    <state width="1342" height="258" key="GridCell.Tab.1.bottom" timestamp="1607705319714">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1342" height="258" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1607525208347" />
-    <state width="1342" height="258" key="GridCell.Tab.1.center" timestamp="1607525208346">
+    <state width="1342" height="258" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1607705319714" />
+    <state width="1342" height="258" key="GridCell.Tab.1.center" timestamp="1607705319713">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1342" height="258" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1607525208346" />
-    <state width="1342" height="258" key="GridCell.Tab.1.left" timestamp="1607525208346">
+    <state width="1342" height="258" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1607705319713" />
+    <state width="1342" height="258" key="GridCell.Tab.1.left" timestamp="1607705319713">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1342" height="258" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1607525208346" />
-    <state width="1342" height="258" key="GridCell.Tab.1.right" timestamp="1607525208347">
+    <state width="1342" height="258" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1607705319713" />
+    <state width="1342" height="258" key="GridCell.Tab.1.right" timestamp="1607705319714">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1342" height="258" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1607525208347" />
+    <state width="1342" height="258" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1607705319714" />
     <state x="249" y="6" key="SettingsEditor" timestamp="1607515646007">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
