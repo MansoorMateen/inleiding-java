@@ -24,14 +24,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fb2508ed-a354-4b1a-b081-b461dffe4669" name="Default Changelist" comment="12 af">
-      <change afterPath="$PROJECT_DIR$/src/h13/h131.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/h13/h132.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/h13/h133.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/h13/h13P1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/h13/h13p2.java" afterDir="false" />
+    <list default="true" id="fb2508ed-a354-4b1a-b081-b461dffe4669" name="Default Changelist" comment="13 af">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/h12/h12P.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/h12/h12P.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -158,7 +152,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607604822019</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="13 af">
+      <created>1607705971367</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1607705971367</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -176,7 +177,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="succesvol veranderd" />
     <MESSAGE value="12 af" />
-    <option name="LAST_COMMIT_MESSAGE" value="12 af" />
+    <MESSAGE value="13 af" />
+    <option name="LAST_COMMIT_MESSAGE" value="13 af" />
   </component>
   <component name="WindowStateProjectService">
     <state x="310" y="0" key="#Project_Structure" timestamp="1603105764968">
@@ -231,13 +233,13 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="249" y="6" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1607515646007" />
-    <state x="422" y="145" key="Vcs.Push.Dialog.v2" timestamp="1607604986110">
+    <state x="422" y="145" key="Vcs.Push.Dialog.v2" timestamp="1607705979860">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="422" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1607604986110" />
-    <state x="586" y="346" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1607604803025">
+    <state x="422" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1607705979860" />
+    <state x="586" y="346" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1607705953068">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="586" y="346" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.864@0.0.1536.864" timestamp="1607604803025" />
+    <state x="586" y="346" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.864@0.0.1536.864" timestamp="1607705953068" />
   </component>
 </project>
