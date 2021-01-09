@@ -25,6 +25,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fb2508ed-a354-4b1a-b081-b461dffe4669" name="Default Changelist" comment="13 af">
+      <change afterPath="$PROJECT_DIR$/src/h13/test13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/h14/H14P.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/h14/h141.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/h14/h142.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/applaus.wav" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,43 +61,53 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/h14" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
-  <component name="RunManager" selected="Applet.h13p2">
-    <configuration name="h119" type="Applet" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="h11.h119" />
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Test\Documents\GitHub\inleiding-java\src\h14" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Test\Documents\GitHub\inleiding-java\src\resources" />
+      <recent name="C:\Users\Test\Documents\GitHub\inleiding-java\src" />
+      <recent name="C:\Users\Test\Documents\GitHub\inleiding-java\src\h14" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Applet.H14P">
+    <configuration name="H14P" type="Applet" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="h14.H14P" />
       <module name="inleiding-java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="h132" type="Applet" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="h13.h132" />
+    <configuration name="h105" type="Applet" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="h10.h105" />
       <module name="inleiding-java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="h133" type="Applet" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="h13.h133" />
+    <configuration name="h12P" type="Applet" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="h12.h12P" />
       <module name="inleiding-java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="h13P1" type="Applet" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="h13.h13P1" />
+    <configuration name="h141" type="Applet" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="h14.h141" />
       <module name="inleiding-java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="h13p2" type="Applet" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="h13.h13p2" />
+    <configuration name="h142" type="Applet" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="h14.h142" />
       <module name="inleiding-java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -100,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Applet.h13p2" />
-        <item itemvalue="Applet.h13P1" />
-        <item itemvalue="Applet.h133" />
-        <item itemvalue="Applet.h132" />
-        <item itemvalue="Applet.h119" />
+        <item itemvalue="Applet.H14P" />
+        <item itemvalue="Applet.h105" />
+        <item itemvalue="Applet.h142" />
+        <item itemvalue="Applet.h12P" />
+        <item itemvalue="Applet.h141" />
       </list>
     </recent_temporary>
   </component>
@@ -179,67 +194,5 @@
     <MESSAGE value="12 af" />
     <MESSAGE value="13 af" />
     <option name="LAST_COMMIT_MESSAGE" value="13 af" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="310" y="0" key="#Project_Structure" timestamp="1603105764968">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state x="310" y="0" key="#Project_Structure/0.0.1536.864@0.0.1536.864" timestamp="1603105764968" />
-    <state x="285" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603105696122">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state x="285" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.864@0.0.1536.864" timestamp="1603105696122" />
-    <state x="522" y="160" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1607704843477">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state x="522" y="160" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1536.864@0.0.1536.864" timestamp="1607704843476" />
-    <state x="610" y="167" key="FileChooserDialogImpl" timestamp="1603210615284">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state x="610" y="167" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1603210615284" />
-    <state width="1342" height="89" key="GridCell.Tab.0.bottom" timestamp="1607705938380">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state width="1342" height="89" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1607705938380" />
-    <state width="1342" height="89" key="GridCell.Tab.0.center" timestamp="1607705938380">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state width="1342" height="89" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1607705938380" />
-    <state width="1342" height="89" key="GridCell.Tab.0.left" timestamp="1607705938380">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state width="1342" height="89" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1607705938380" />
-    <state width="1342" height="89" key="GridCell.Tab.0.right" timestamp="1607705938380">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state width="1342" height="89" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1607705938380" />
-    <state width="1342" height="258" key="GridCell.Tab.1.bottom" timestamp="1607705319714">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state width="1342" height="258" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1607705319714" />
-    <state width="1342" height="258" key="GridCell.Tab.1.center" timestamp="1607705319713">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state width="1342" height="258" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1607705319713" />
-    <state width="1342" height="258" key="GridCell.Tab.1.left" timestamp="1607705319713">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state width="1342" height="258" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1607705319713" />
-    <state width="1342" height="258" key="GridCell.Tab.1.right" timestamp="1607705319714">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state width="1342" height="258" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1607705319714" />
-    <state x="249" y="6" key="SettingsEditor" timestamp="1607515646007">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state x="249" y="6" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1607515646007" />
-    <state x="422" y="145" key="Vcs.Push.Dialog.v2" timestamp="1607705979860">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state x="422" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1607705979860" />
-    <state x="586" y="346" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1607705953068">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state x="586" y="346" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.864@0.0.1536.864" timestamp="1607705953068" />
   </component>
 </project>
